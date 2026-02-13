@@ -3,15 +3,15 @@
 NAZWA: "Patrol"
 
 MOTTO:
-„I have never thought to myself that realism is fun. I go play games to have fun.” - Gabe Newell
-„Nigdy nie postrzegałem realizmu w kategoriach zabawy. Gram w gry, żeby mieć z nich frajdę”.
+„I have never thought to myself that realism is fun. I go play games to have fun.” - Gabe Newell \
+„Nigdy nie postrzegałem realizmu w kategoriach zabawy. Gram w gry, żeby mieć z nich frajdę”. \
 
 ## GRAFIKA
 
 ### LOGO-POMYSŁ: 
-tło - Stary żółty papier gazetowy
-tekst - za pomocą fontu mom's typewriter napisać "Patrol"
-dod. detale - prawy brzeg logo ma się leciutko palić
+tło - Stary żółty papier gazetowy \
+tekst - za pomocą fontu mom's typewriter napisać "Patrol" \
+dod. detale - prawy brzeg logo ma się leciutko palić \
 
 ### MODELE-3D: 
 Robione w blenderze, jakość średnio-dobra, nie powinny być bardzo obciążające komputer.
@@ -44,9 +44,9 @@ Zadania:
 Odebranie dzwonku z miejsca zdarzenia → Analiza wymaganej pomocy → Nadanie prawidłowego komunikatu do poszczególnych kanałów radiowych słóżb 
 
 ### GRA: 
-Po wyborze służby. Gracz dostanie zadania od dyspozytora przez ogólny kanał wybranej służby krótkofalówki przenośnej / CB-radia w samochodzie. Zadanie się pojawi w Panelu w którym gracz będzie miał wskazówki jak go wykonać. W zależności od zadania będą różne limity oraz warunki jakie muszą być spełnione na maksymalną nagrodę, np. czas wykonania, ilość przetrwałych poszkodowanych, jakość regulacji ruchu na miejscu wypadku, koordynacja z innymi służbami, stan w jakim poszkowany / npc dostał dostarczony itp.. Po wykonaniu zadania gracz dostaje nagrodę.
-Co jakiś czas będą tzw. "Misje" dla gracza dla każdej z służb, będą one zawierały większą fabułę oraz wydawały większą nagrodę za wykonanie całego ciągu zadań. Po wykonaniu misji będzie większa zwykła nagroda, oraz nagroda specjalna.
-Jest również system reputacji, którego wynik zależy od wyboru gracza. Gracz będzie stawał przed wyborami moralnymi, np. jako policjant będzie mógł wziąść łapówkę na przekroczenie limitu prędkości. Każdy wybór będzie skutkował na reputacji.
+Po wyborze służby. Gracz dostanie zadania od dyspozytora przez ogólny kanał wybranej służby krótkofalówki przenośnej / CB-radia w samochodzie. Zadanie się pojawi w Panelu w którym gracz będzie miał wskazówki jak go wykonać. W zależności od zadania będą różne limity oraz warunki jakie muszą być spełnione na maksymalną nagrodę, np. czas wykonania, ilość przetrwałych poszkodowanych, jakość regulacji ruchu na miejscu wypadku, koordynacja z innymi służbami, stan w jakim poszkowany / NPC dostał dostarczony itp.. Po wykonaniu zadania gracz dostaje nagrodę. \
+Co jakiś czas będą tzw. "Misje" dla gracza dla każdej z służb, będą one zawierały większą fabułę oraz wydawały większą nagrodę za wykonanie całego ciągu zadań. Po wykonaniu misji będzie większa zwykła nagroda, oraz nagroda specjalna. \
+Jest również system reputacji, którego wynik zależy od wyboru gracza. Gracz będzie stawał przed wyborami moralnymi, np. jako policjant będzie mógł wziąść łapówkę na przekroczenie limitu prędkości. Każdy wybór będzie skutkował na reputacji. \
 
 ### KOMUNIKACJA:
 Gracz ma 3 sposoby komunikacji w grze.
@@ -64,8 +64,8 @@ Telefon ma funkcje czatu prywatnego między graczami. Tzn. gracz będzie mógł 
 Czas i miejsce akcji odbywa się w latach 90ych w Polsce. Otwiera się okno na swiat, i przez szpary zaczynają przemykać zagraniczne rzeczy i produkty. A Polska dopierdo kształtuje swoją niepodleglą władzę. Ty, jako dopiero skończywszy pełnolecie człowiek próbując podzarobić na uniezależnienie się od rodziców decydujesz na wstąpenie do jednej z służb publicznej i podzarobić, w ten czy inny sposób.
 
 ### REPUTACJA I ETYKA:
-System reputacji jest oparty na dwóch wskaźnikach: "Reputacja Służbowa" oraz "Portfel".
-Gracz musi balansować między moralnością a chęcią szybkiego zarobku.
+System reputacji jest oparty na dwóch wskaźnikach: "Reputacja Służbowa" oraz "Portfel". \
+Gracz musi balansować między moralnością a chęcią szybkiego zarobku. \
 Konswekencje tego wyboru są następujące:
 
 * Wysoka Reputacja
